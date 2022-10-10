@@ -1,4 +1,4 @@
-# A MVCS pattern create a enum command for Laravel 5+
+# A MVCS pattern create a enum command for Laravel 9
 Create a new enum class 
 
 # Install
