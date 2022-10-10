@@ -29,7 +29,7 @@ $ php artisan make:enum UserType
 namespace App\Enums;
 
 /**
- * Class UserService
+ * Enum UserType
  * @package App\Enums
  */
 enum UserType
