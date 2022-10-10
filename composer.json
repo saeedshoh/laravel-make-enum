@@ -1,0 +1,28 @@
+{
+  "name": "saeedshoh/laravel-make-enum",
+  "description": "A MVCS pattern create a enum command for Laravel 5+",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Saeedshoh\\LaravelMakeEnum\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Saidshoh Barotov",
+      "email": "saeedshoh@gmail.com",
+      "homepage": "https://github.com/saeedshoh/laravel-make-enum"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^8.1"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Saeedshoh\\LaravelMakeEnum\\LaravelMakeEnumProvider"
+      ]
+    }
+  }
+}

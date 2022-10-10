@@ -1,0 +1,12 @@
+<?php
+
+namespace {{ namespace }};
+
+/**
+ * Enum {{ class }}
+ * @package App\Enums
+ */
+enum {{ class }}
+{
+
+}
